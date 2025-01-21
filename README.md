@@ -1,5 +1,5 @@
 # TFG-CaminosMinimos
-Este repositorio contiene el código desarrollado para los algoritmos de Dijkstra y Bellman-Ford en el TFG "Desarrollo de una Aplicación Didáctica.Caminos Mínimos en Grafos." en la UPM.
+Este repositorio contiene el código desarrollado para los algoritmos de Dijkstra y Bellman-Ford en el TFG "Desarrollo de una Aplicación Didáctica.Caminos Mínimos en Grafos." en la ETSIINF UPM.
 ## Contenido
   - dijkstra.py: Contiene el código para el algoritmo de Dijkstra
   - dijsktra2.py: Contiene el código para el algoritmo de Dijkstra aplicando la variación con nodo de destino
